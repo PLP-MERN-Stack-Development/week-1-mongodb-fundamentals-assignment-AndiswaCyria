@@ -57,7 +57,6 @@ See screenshot below for proof of data insertion.
 
 ### Books Collection View
 
-![Books Screenshot](./
 - My database is called: `plp_bookstore`
 - My main collection is: `books`
 
