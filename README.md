@@ -60,11 +60,6 @@ See screenshot below for proof of data insertion.
 - My database is called: `plp_bookstore`
 - My main collection is: `books`
 
-### Tools Used
-
-- [MongoDB Compass](https://www.mongodb.com/products/compass) for visual exploration and data manipulation.
-- [VS Code](https://code.visualstudio.com/) for editing query scripts.
-
 ---
 
 ## 📚 Data Inserted
@@ -111,15 +106,15 @@ All queries are in the `queries.js` file, including:
 
 ### 1. Average Book Price by Genre
 
-![Average Price by Genre](screenshots/Average price per genre.png "AVG Price")
+![Average Book](screenshots/Average_price_per_genre.png "Avg")
 
 ### 2. Author with the Most Books
 
-![Top Author](screenshots/Author withthe most books .png "Top Author")
+![Top Author](screenshots/Author_withthe_most_books.png "Top Author")
 
 ### 3. Group Books by Publication Decade
 
-![Books by Decade](screenshots/Grouped books by publication date.png "Group"
+![Books by Decade](screenshots/Grouped_books_by_publication_date.png "Group")
 
 ---
 
