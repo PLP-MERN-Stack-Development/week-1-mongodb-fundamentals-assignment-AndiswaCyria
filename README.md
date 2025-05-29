@@ -88,7 +88,7 @@ See screenshot below for proof of data insertion.
 
 ### Books Collection View
 
-![Books Screenshot](./screenshots/mongodb_books_screenshot.png)
+![Book Collection View](screenshots/mongodb_books_screenshots.png "Collection")
 
 ---
 
@@ -111,15 +111,15 @@ All queries are in the `queries.js` file, including:
 
 ### 1. Average Book Price by Genre
 
-![Average Price by Genre]
+![Average Price by Genre](screenshots/Average price per genre.png "AVG Price")
 
 ### 2. Author with the Most Books
 
-![Top Author]
+![Top Author](screenshots/Author withthe most books .png "Top Author")
 
 ### 3. Group Books by Publication Decade
 
-![Books by Decade]
+![Books by Decade](screenshots/Grouped books by publication date.png "Group"
 
 ---
 
@@ -131,71 +131,6 @@ Indexes created in Compass:
 - Compound index on: `author` and `published_year`
 
 The `explain()` method was used to compare performance with and without indexes (results not shown in this file).
-
----
-
-## 📤 Submission
-
-✅ All tasks are completed.  
-✅ Files pushed to GitHub repository:  
-[week-1-mongodb-fundamentals-assignment-AndiswaCyria](./Users/mac/github-classroom/PLP-MERN-Stack-Development/week-1-mongodb-fundamentals-assignment-AndiswaCyria/screenshots/mongodb_books_screenshots.png)
-
----
-
-## 👩‍💻 Author
-
-**Andiswa Cyria**
-
----
-
-)
-
----
-
-## 📜 MongoDB Queries
-
-All queries are in the `queries.js` file, including:
-
-- Finding books by genre
-- Books published after a certain year
-- Books by a specific author
-- Updating book prices
-- Deleting books by title
-- Filtering by multiple conditions
-- Projection, sorting, pagination
-- Index creation and performance test
-
----
-
-## 📊 Aggregation Pipelines
-
-### 1. Average Book Price by Genre
-
-
-### 2. Author with the Most Books
-
-
-### 3. Group Books by Publication Decade
-
-
----
-
-## ⚡ Indexing
-
-Indexes created in Compass:
-
-- Single-field index on: `title`
-- Compound index on: `author` and `published_year`
-
-The `explain()` method was used to compare performance with and without indexes (results not shown in this file).
-
----
-
-## 📤 Submission
-
-✅ All tasks are completed.  
-✅ Files pushed to GitHub repository:  
-[week-1-mongodb-fundamentals-assignment-AndiswaCyria](https://github.com/PLP-MERN-Stack-Development/week-1-mongodb-fundamentals-assignment-AndiswaCyria)
 
 ---
 
